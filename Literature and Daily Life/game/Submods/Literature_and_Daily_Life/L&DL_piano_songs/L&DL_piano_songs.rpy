@@ -685,7 +685,7 @@ label Monika_Piano_YBWM:
     show monika 2hua zorder MAS_MONIKA_Z at t11 with dissolve_monika
     pause 4.0
     show monika 2fua zorder MAS_MONIKA_Z at t11 with dissolve_monika
-    pause 222
+    pause 206
     stop music fadeout 3.0
     show monika at Transform(xpos=-800) with move
     pause 1.0
